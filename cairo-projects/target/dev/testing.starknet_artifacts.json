@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"3mut578ius50i","package_name":"testing","contract_name":"SimpleStorage","module_path":"testing::SimpleStorage","artifacts":{"sierra":"testing_SimpleStorage.contract_class.json","casm":"testing_SimpleStorage.compiled_contract_class.json"}}]}
